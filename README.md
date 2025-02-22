@@ -17,7 +17,7 @@ This work focuses on the development of a **generalized type-2 fuzzy radial basi
 ## Methodology
 
 ### GT2RBFnn Model
-The core of this method is the **GT2RBFnn** which combines type-2 fuzzy logic systems with radial basis function networks. This approach helps to enhance the system’s robustness and flexibility in predicting joint trajectories and controlling impedance for lower limb exoskeletons.
+The core of this method is the **GT2RBFnn** which combines type-2 fuzzy logic systems with radial basis function networks. This approach helps to enhance the system’s robustness and flexibility and provide cost-efficiency.
 
 ### Loss Function Comparison
 We compare different loss functions to evaluate the performance and convergence of the model during training.
