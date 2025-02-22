@@ -29,7 +29,8 @@ We compare different loss functions to evaluate the performance and convergence 
 ### GT2RBFnn Architecture
 The diagram below illustrates the proposed **GT2RBFnn** method and its components:
 
-![GT2RBFnn Architecture](./Images/GT2RBFnn.png)
+<img src="./Images/GT2RBFnn.png" width="500" alt="GT2RBFnn Architecture">
+
 
 ### Loss Function Comparison
 
