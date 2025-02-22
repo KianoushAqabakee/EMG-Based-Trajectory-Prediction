@@ -10,7 +10,7 @@ This repository provides the implementation of the paper:
 
 ## Overview
 
-This work focuses on the development of a **generalized type-2 fuzzy radial basis function neural network (GT2RBFnn)** for **joint position estimation** and **adaptive EMG-based impedance control** of lower limb exoskeletons. The repository contains the full implementation of the proposed method, which aims to improve the efficiency and accuracy of exoskeleton control by using **Electromyographic (EMG)** signals.
+This work focuses on the development of a **generalized type-2 fuzzy radial basis function neural network (GT2RBFnn)** for **joint position estimation** and **adaptive EMG-based impedance control** of lower limb exoskeletons. The repository contains the full implementation of the proposed GT2RBFnn method, which aims to improve the efficiency and accuracy of exoskeleton control by using **Electromyographic (EMG)** signals.
 
 ---
 
