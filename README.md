@@ -51,16 +51,10 @@ Here are some example predictions of joint position estimation using **EMG signa
 
 ---
 
-## Requirements
-
-To run the code in this repository, you’ll need the following Python libraries:
-
-```bash
-pip install -r requirements.txt
-
 
 If you use this work in your research, please cite the following paper:
 
+```bash
 
 @article{AQABAKEE2025106791,
 title = {Recursive generalized type-2 fuzzy radial basis function neural networks for joint position estimation and adaptive EMG-based impedance control of lower limb exoskeletons},
