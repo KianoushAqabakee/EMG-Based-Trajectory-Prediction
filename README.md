@@ -54,9 +54,7 @@ Here are some example predictions of joint position estimation using **EMG signa
 
 
 If you use this work in your research, please cite the following paper:
-
-```bash
-
+~~~
 @article{AQABAKEE2025106791,
 title = {Recursive generalized type-2 fuzzy radial basis function neural networks for joint position estimation and adaptive EMG-based impedance control of lower limb exoskeletons},
 journal = {Biomedical Signal Processing and Control},
@@ -69,3 +67,4 @@ url = {https://www.sciencedirect.com/science/article/pii/S1746809424008498},
 author = {Kianoush Aqabakee and Farzaneh Abdollahi and Afshin Taghvaeipour and Mohammad-R Akbarzadeh-T},
 keywords = {Generalized type-2 radial basis function neural network, Recursive neural networks, Joint position prediction, Assistive lower limb exoskeletons, Adaptive Impedance Controller},
 }
+~~~
